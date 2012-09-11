@@ -1,0 +1,52 @@
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Utbildning.App.Web.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Utbildning.App.Web.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\EntityFramework.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\EntityFramework.xml
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\obj\Debug\Utbildning.App.Web.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\obj\Debug\Utbildning.App.Web.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.Web.Common.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.Web.Mvc.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Utbildning.App.Core.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\WebActivator.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Utbildning.App.Core.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.xml
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.Web.Common.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.Web.Common.xml
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.Web.Mvc.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\Ninject.Web.Mvc.xml
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\obj\Debug\Utbildning.App.Web.csprojResolveAssemblyReference.cache
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\MongoDB.Driver.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\MongoDB.Bson.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\MongoDB.Driver.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\MongoDB.Driver.xml
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\MongoDB.Bson.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.App.Web\bin\MongoDB.Bson.xml
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Utbildning.App.Web.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Utbildning.App.Web.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\EntityFramework.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.Web.Common.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.Web.Mvc.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Utbildning.App.Core.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\WebActivator.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\MongoDB.Bson.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\MongoDB.Driver.dll
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Utbildning.App.Core.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\EntityFramework.xml
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.xml
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.Web.Common.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.Web.Common.xml
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.Web.Mvc.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\Ninject.Web.Mvc.xml
+C:\GIT\Utbildning\Utbildning.App.Web\bin\MongoDB.Bson.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\MongoDB.Bson.xml
+C:\GIT\Utbildning\Utbildning.App.Web\bin\MongoDB.Driver.pdb
+C:\GIT\Utbildning\Utbildning.App.Web\bin\MongoDB.Driver.xml
+C:\GIT\Utbildning\Utbildning.App.Web\obj\Debug\Utbildning.App.Web.csprojResolveAssemblyReference.cache
+C:\GIT\Utbildning\Utbildning.App.Web\obj\Debug\Utbildning.App.Web.dll
+C:\GIT\Utbildning\Utbildning.App.Web\obj\Debug\Utbildning.App.Web.pdb

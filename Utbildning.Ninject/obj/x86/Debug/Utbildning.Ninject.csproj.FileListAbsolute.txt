@@ -1,0 +1,15 @@
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\bin\Debug\Utbildning.Ninject.exe
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\bin\Debug\Utbildning.Ninject.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\obj\x86\Debug\Utbildning.Ninject.exe
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\obj\x86\Debug\Utbildning.Ninject.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\bin\Debug\Ninject.dll
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\bin\Debug\Ninject.pdb
+C:\Users\tobias.hasslebrant\Documents\Visual Studio 2010\Projects\Utbildning.NUnit\Utbildning.Ninject\bin\Debug\Ninject.xml
+C:\GIT\Utbildning\Utbildning.Ninject\obj\x86\Debug\Utbildning.Ninject.exe
+C:\GIT\Utbildning\Utbildning.Ninject\obj\x86\Debug\Utbildning.Ninject.pdb
+C:\GIT\Utbildning\Utbildning.Ninject\bin\Debug\Utbildning.Ninject.exe
+C:\GIT\Utbildning\Utbildning.Ninject\bin\Debug\Utbildning.Ninject.pdb
+C:\GIT\Utbildning\Utbildning.Ninject\bin\Debug\Ninject.dll
+C:\GIT\Utbildning\Utbildning.Ninject\bin\Debug\Ninject.pdb
+C:\GIT\Utbildning\Utbildning.Ninject\bin\Debug\Ninject.xml
+C:\GIT\Utbildning\Utbildning.Ninject\obj\x86\Debug\Utbildning.Ninject.csprojResolveAssemblyReference.cache

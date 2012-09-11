@@ -1,0 +1,42 @@
+show dbs
+use vardguiden_guide
+show collections
+db.Guide.find
+dv
+db
+db.Guide.find().take(5)
+db.Guide.find().top(5)
+db.Guide.top(5)
+db.Guide.take(5)
+db.Guide.find()
+use vardgudien_guide
+show collections
+use vardguiden_guide
+db
+db.Guide.find()[0]
+db.Guide.find()[0].Status
+>db.Guide.find().forEach(function (f){ print(f.ChangedBy;)})
+>db.Guide.find().forEach(function (f){ print(f.ChangedBy);})
+>db.Guide.find().forEach(function (f){ print(f.ChangedBy)})
+>db.Guide.find().forEach(function (f){ f.ChangedBy})
+>db.Guide.find().forEach(function(f){ print(f.ChangedBy);})
+db.Guide.find()[0].Status
+>db.Guide.find().forEach(function(f){ print(f.ChangedBy);});
+>db.Guide.find().forEach(function(f){ Print(f.ChangedBy);})
+>db.Guide.find().forEach(function(f){Print(f.ChangedBy);})
+>db.Guide.find().forEach(function(f){print(f.ChangedBy);})
+>db.Guide.find().forEach(function(f){print(f);})
+db.Guide.find().forEach(function(f){print(f);})
+db.Guide.find().forEach(function(f){print(f.CreatedBy);})
+db.Guide.find()[0]
+db.Guide.find({"Status":5})
+db.Guide.find({"Status":1})
+db.Guide.find({"Status":2})
+db.Guide.find({"Status":{$le :2}})
+db.Guide.find({"Status":{$lt :2}})
+db.Guide.find({"Status":{$lt :2}})[0]
+db.Guide.find({"Status":{$lt :2}})
+use test
+show collections
+db.Article.find()
+db.Article.find()[0]

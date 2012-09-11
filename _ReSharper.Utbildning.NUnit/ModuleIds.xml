@@ -1,0 +1,6 @@
+<Modules>
+  <Module PersistentId="B9E38785-CD36-4787-A26A-D8037A35CF36" ModuleId="Utbildning.NUnit" />
+  <Module PersistentId="30FAB3B3-F173-4257-B3B1-FAA3E5881264" ModuleId="Utbildning.Ninject" />
+  <Module PersistentId="6890681F-2AFE-4E6B-8A00-DD19EA54560E" ModuleId="Utbildning.RhinoMocks" />
+  <Module PersistentId="D0D806AA-B6E7-411E-BBE4-8E1A2E1748CF" ModuleId="Utbildning.Core" />
+</Modules>

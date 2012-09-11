@@ -1,0 +1,38 @@
+﻿@model IEnumerable<Utbildning.App.Core.Models.Article>
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Alla artiklar</title>
+        <style> 
+            ul {
+                list-style: none;    
+            }
+            li {
+                background-color: #ddd;
+                width: 200px;
+                margin-bottom: 5px;
+                padding: 0px 10px;
+            } 
+             
+        </style>
+    </head>
+    <body>
+        <h1>Alla artiklar</h1>
+        <ul>
+            @foreach(var article in Model)
+            {
+                <li>
+                    <h2>@article.Header</h2> @article.PublishedDate
+                    <p>@article.MainBody</p>
+                </li>
+            }
+
+        </ul>
+    </body>
+</html>
