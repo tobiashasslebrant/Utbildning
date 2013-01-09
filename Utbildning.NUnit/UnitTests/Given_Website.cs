@@ -30,9 +30,8 @@ namespace Utbildning.NUnit.UnitTests
         }
 
         [Test]
-        public void should_sort_newest_article_first()
+        public void should_sort_newest_article_first(string url)
         {
-           
             Assert.That(SystemUnderTest.Articles.First().PublishedDate, Is.EqualTo(new DateTime(2001, 1, 4)));
         }
 
@@ -41,6 +40,6 @@ namespace Utbildning.NUnit.UnitTests
         {
             Assert.That(SystemUnderTest.Articles.Last().PublishedDate, Is.EqualTo(new DateTime(2001, 1, 1)));
         }
-        //[Teardown]
+
     }
 }

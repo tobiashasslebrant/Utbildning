@@ -1,9 +1,0 @@
-<Modules>
-  <Module PersistentId="6890681F-2AFE-4E6B-8A00-DD19EA54560E" ModuleId="Utbildning.RhinoMocks" />
-  <Module PersistentId="B9E38785-CD36-4787-A26A-D8037A35CF36" ModuleId="Utbildning.NUnit" />
-  <Module PersistentId="30FAB3B3-F173-4257-B3B1-FAA3E5881264" ModuleId="Utbildning.Ninject" />
-  <Module PersistentId="B987DE8F-ECB5-49F7-9AC0-6858F9DF64A3" ModuleId="Utbildning.App.Core" />
-  <Module PersistentId="D3B40C49-F47B-4529-A653-3D9B5EAEB3BC" ModuleId="Utbildning.App.Core.Tests" />
-  <Module PersistentId="A003AA6B-2F25-48B9-B3BE-A59E2910B5D0" ModuleId="Utbildning.App.Web" />
-  <Module PersistentId="72B2D452-A772-46AB-8078-93D7A24C42CD" ModuleId="Utbildning.MongoDb" />
-</Modules>

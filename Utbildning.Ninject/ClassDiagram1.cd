@@ -52,9 +52,6 @@
   </Class>
   <Class Name="Utbildning.Ninject.Models.WebSiteWithDependencies">
     <Position X="2.25" Y="0.5" Width="2.25" />
-    <Compartments>
-      <Compartment Name="Methods" Collapsed="true" />
-    </Compartments>
     <TypeIdentifier>
       <HashCode>AAAAAAAIAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAACA=</HashCode>
       <FileName>Models\WebSiteWithDependencies.cs</FileName>

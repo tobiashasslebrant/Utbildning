@@ -12,6 +12,8 @@ namespace Utbildning.RhinoMocks.Models
     public class ArticleDatabase : IArticleDatabase
     {
         public virtual int Max { get { return 10; } }
+        public string Connectionstring { get; set; }
+
         public IEnumerable<Article> GetArticles()
         {
             return new []
