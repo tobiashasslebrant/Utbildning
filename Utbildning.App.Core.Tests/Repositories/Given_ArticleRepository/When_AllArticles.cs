@@ -2,8 +2,9 @@ using System.Collections.Generic;
 using System.Linq;
 using NUnit.Framework;
 using Utbildning.App.Core.Models;
+using Utbildning.App.Core.Tests.Repositories.Given_ArticleRepository;
 
-namespace Utbildning.App.Core.Tests.Repositories.Given_ArticleRepository
+namespace Given_ArticleRepository
 {
     public class When_AllArticles : Arrange_ArticleRepository
     {

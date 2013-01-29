@@ -28,12 +28,28 @@ namespace Utbildning.NUnit.UnitTests
                            }; 
             SystemUnderTest.SortArticlesByDate();
         }
+        [TestFixtureTearDown]
+
+        [TearDown]
+        public void teardown()
+        {
+            
+        }
+
+    
+        [TestCase("kalle3")]
+        [TestCase("kalle4")]
+        public void leif(string url)
+        {
+            
+        }
 
         [Test]
         public void should_sort_newest_article_first(string url)
         {
             Assert.That(SystemUnderTest.Articles.First().PublishedDate, Is.EqualTo(new DateTime(2001, 1, 4)));
         }
+
 
         [Test]
         public void should_sort_oldest_article_last()
