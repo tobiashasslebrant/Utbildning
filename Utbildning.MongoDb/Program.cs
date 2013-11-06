@@ -1,7 +1,6 @@
 ﻿using System;
 using MongoDB.Bson;
 using MongoDB.Bson.Serialization.Options;
-using MongoDB.Driver;
 using Utbildning.MongoDb.Models;
 
 namespace Utbildning.MongoDb
@@ -10,17 +9,13 @@ namespace Utbildning.MongoDb
     {
         static void Main(string[] args)
         {
-            DateTimeSerializationOptions.Defaults = new DateTimeSerializationOptions(DateTimeKind.Local, BsonType.Document);
+           DateTimeSerializationOptions.Defaults = new DateTimeSerializationOptions(DateTimeKind.Local, BsonType.Document);
+            var server = MongoDB.Driver.MongoServer.Create("mongodb://127.0.0.1");
+            var db = server.GetDatabase("Utbildning");
 
-            var server = MongoDB.Driver.MongoServer.Create("mongodb://172.16.125.33:27017");
-            server.DropDatabase("leif");
-            var adminDatabase = server.GetDatabase("admin");
-            adminDatabase.RunCommand("copyDatabase('master_api_hittavard','leif')");
-
-           
+            var collection = db.GetCollection<Article>("Articles");
+            collection.Insert(new Article() {Header = "my new Article"});
             
-
-
             Console.Read();
             
         }
