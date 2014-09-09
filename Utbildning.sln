@@ -1,6 +1,8 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2012
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utbildning.NUnit", "Utbildning.NUnit\Utbildning.NUnit.csproj", "{B9E38785-CD36-4787-A26A-D8037A35CF36}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utbildning.Ninject", "Utbildning.Ninject\Utbildning.Ninject.csproj", "{30FAB3B3-F173-4257-B3B1-FAA3E5881264}"
